@@ -1,2 +1,2 @@
 # MyProject
-project
+Hello my project
